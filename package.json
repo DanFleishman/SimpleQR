@@ -1,0 +1,15 @@
+{
+  "name": "simpleqr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Dan Fleishman",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}
